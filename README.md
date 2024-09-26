@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://t.me/destren1">
-    <img src="./V4NSR1NG2p0KeJJyr5.webp" alt="Описание изображения" width="700"/>
+    <img src="./V4NSR1NG2p0KeJJyr5.webp" alt="Описание изображения" width="700" height="300"/>
   </a>
 </p>
 
